@@ -1,0 +1,12 @@
+0.6
+2019.1
+May 24 2019
+15:06:07
+C:/Users/anupa/vivado/cw305_template/cw_aes.sim/sim_1/behav/xsim/glbl.v,1558713910,verilog,,,,glbl,,,,,,,,
+C:/Users/anupa/vivado/cw305_template/cw_aes.srcs/sources_1/new/aes_core.v,1675223687,verilog,,C:/Users/anupa/vivado/cw305_template/cw_aes.srcs/sources_1/new/cdc_pulse.v,,aes_core;sbox,,,,,,,,
+C:/Users/anupa/vivado/cw305_template/cw_aes.srcs/sources_1/new/cdc_pulse.v,1675218846,verilog,,C:/Users/anupa/vivado/cw305_template/cw_aes.srcs/sources_1/new/clocks.v,,cdc_pulse,,,,,,,,
+C:/Users/anupa/vivado/cw305_template/cw_aes.srcs/sources_1/new/clocks.v,1675218745,verilog,,C:/Users/anupa/vivado/cw305_template/cw_aes.srcs/sources_1/new/cw305_reg_aes.v,,clocks,,,,,,,,
+C:/Users/anupa/vivado/cw305_template/cw_aes.srcs/sources_1/new/cw305_defines.v,1675218930,verilog,,,,,,,,,,,,
+C:/Users/anupa/vivado/cw305_template/cw_aes.srcs/sources_1/new/cw305_reg_aes.v,1675218660,verilog,,C:/Users/anupa/vivado/cw305_template/cw_aes.srcs/sources_1/new/cw305_usb_reg_fe.v,C:/Users/anupa/vivado/cw305_template/cw_aes.srcs/sources_1/new/cw305_defines.v,cw305_reg_aes,,,,,,,,
+C:/Users/anupa/vivado/cw305_template/cw_aes.srcs/sources_1/new/cw305_top.v,1675223750,verilog,,,,cw305_top,,,,,,,,
+C:/Users/anupa/vivado/cw305_template/cw_aes.srcs/sources_1/new/cw305_usb_reg_fe.v,1675218713,verilog,,C:/Users/anupa/vivado/cw305_template/cw_aes.srcs/sources_1/new/cw305_top.v,,cw305_usb_reg_fe,,,,,,,,
